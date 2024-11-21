@@ -1,3 +1,4 @@
+//clsstring.h file that contains method related to string. 
 #pragma once
 
 #include <iostream>
